@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/THE-TRIPPER/static/css/main.5e2d1c24.css",
+    "main.js": "/THE-TRIPPER/static/js/main.87556050.js",
+    "static/media/anglee.mp4": "/THE-TRIPPER/static/media/anglee.611ca25fed7ff7503078.mp4",
+    "static/media/tripper.jpg": "/THE-TRIPPER/static/media/tripper.9c0c1177e97781311b53.jpg",
+    "static/media/logo.jpg": "/THE-TRIPPER/static/media/logo.6b85104fd8b43d8a3f2c.jpg",
+    "index.html": "/THE-TRIPPER/index.html",
+    "main.5e2d1c24.css.map": "/THE-TRIPPER/static/css/main.5e2d1c24.css.map",
+    "main.87556050.js.map": "/THE-TRIPPER/static/js/main.87556050.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e2d1c24.css",
+    "static/js/main.87556050.js"
+  ]
+}
