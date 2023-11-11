@@ -1,0 +1,76 @@
+.space{
+    padding-top: 19rem;
+    text-align: center;
+    text-transform: capitalize;
+}
+.live{
+    width: 12%;
+    height: 12%;
+    object-fit: cover;
+    padding-top: 3rem;
+}
+.space p{
+    padding: 1rem;
+}
+.space h2{
+    padding-top: 6rem;
+}
+.coin{
+    padding-top: 3rem;
+    text-align: center;
+}
+.coin h2{
+    padding: 1rem;
+}
+.social-media{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: none;
+    font-size: 20px;
+    background: sandybrown;
+    margin: 3rem;
+}
+.social-media:hover{
+background: aqua;
+}
+.faith h2{
+    font-size: 21px;
+    padding-top: 2rem;
+}     
+.hope{
+    padding-top: 5rem;
+}
+.hope span{
+    font-size: 17px;
+    font-weight: 700;
+}
+
+
+
+@media screen and (max-width: 640px){
+    .space{
+        padding-top: 30rem;
+        text-align: center;
+    }
+    #activities{
+        padding-top: 26rem;
+
+    }
+    .live{
+        width: 80%;
+        height: 800%;
+        object-fit: cover;
+    }
+    .space p{
+        font-size: 17px;
+    }
+    .hope span{
+        font-size: 14px;
+    }
+    @media screen and (max-width: 360px){
+        #activities{
+            padding-top: 30rem;
+    }
+}
+}
